@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <br>
+
 ## 📌 Activity
 
 - 2022.09 ~ 12 세종대학교 인공지능 동아리 SAI
@@ -24,6 +25,7 @@ Here are some ideas to get you started:
 - 2023.03 ~ 세종대학교 보안동아리 SSG
 
 <br>
+
 ## 📌 Stack
 
 - <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
