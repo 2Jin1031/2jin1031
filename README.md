@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ## 📌 Activity
 
 - 2022.09 ~ 12 세종대학교 인공지능 동아리 SAI
+- 2023.02 ~ 03 42Seoul 9기 2차 라피신 과정
 - 2023.03 ~ 세종대학교 멋쟁이사자처럼 11기 백엔드
 - 2023.03 ~ 세종대학교 보안동아리 SSG
 
