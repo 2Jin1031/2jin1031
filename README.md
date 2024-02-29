@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 📌 Activity
 
-- 2022.09 ~ 2022.12 세종대학교 인공지능 동아리 SAI]
+- 2022.09 ~ 2022.12 세종대학교 인공지능 동아리 SAI
 - 2023.03 ~ 2023.12 세종대학교 멋쟁이사자처럼 11기 백엔드 트랙
 - 2023.03 ~ 세종대학교 보안동아리 SSG
 <br>
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=black" />
 
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+- <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 
 <br>
 
