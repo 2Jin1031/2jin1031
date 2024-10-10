@@ -4,13 +4,6 @@
 
 <br>
 
-## 📌 Activity
-
-- 2022.09 ~ 2022.12 세종대학교 인공지능 동아리 SAI
-- 2023.03 ~ 2023.12 세종대학교 멋쟁이사자처럼 11기 백엔드 트랙
-- 2023.03 ~ 세종대학교 보안동아리 SSG
-<br>
-
 ## 📌 Stack
 
 - <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/>
