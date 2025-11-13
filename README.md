@@ -1,5 +1,6 @@
 ## Hi there 👋
-(https://github-readme-stats.vercel.app/api?username=2jin1031&theme=one_dark_pro&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2jin1031&theme=one_dark_pro&show_icons=true)
 
 <br>
 
