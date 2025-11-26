@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2jin1031&theme=one_dark_pro&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2jin1031&theme=anuraghazra&show_icons=true)
 
 <br>
 
